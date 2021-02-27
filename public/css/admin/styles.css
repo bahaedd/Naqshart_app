@@ -1,0 +1,23 @@
+li.user-footer div.pull-right a.log-out{
+  margin: 9px;
+  background-color: white;
+  color: #3c8dbc;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  transition: all 0.3s;
+}
+
+div.pull-right a.log-out:hover{
+  color: white;
+  background-color: #3c8dbc;
+  border: 1px inset white;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd){
+  background-color: #3c8dbc2e;
+}
+
+
+.breadcrumb{
+  margin: 10px 15px;
+}
